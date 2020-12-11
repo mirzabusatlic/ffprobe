@@ -7,5 +7,6 @@
             "email": "mirza.busatlic@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
