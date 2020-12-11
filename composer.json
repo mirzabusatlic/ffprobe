@@ -1,0 +1,11 @@
+{
+    "name": "mirzabusatlic/ffprobe",
+    "description": "Static build of FFprobe for AWS Lambda",
+    "authors": [
+        {
+            "name": "Mirza",
+            "email": "mirza.busatlic@gmail.com"
+        }
+    ],
+    "require": {}
+}
